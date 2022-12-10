@@ -4,7 +4,6 @@
 # <b>팀 프로젝트 - 리팩토링</b>
 - <b>개발 목적</b> : 새로운 프레임워크로 프로젝트 리팩토링하기
 - <b>기술 스택</b> : Spring Boot, Java, Vue.js, Javascript, SCSS, MySQL
-- <b>개발 환경</b> : Visual Studio Code, JDK 11.0.15, Gradle
 - <b>개발 기간</b> : 2022.11.16 ~ (진행중)
 <br>
 
